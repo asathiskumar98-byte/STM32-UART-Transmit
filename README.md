@@ -14,4 +14,4 @@ It sends the string `"Hello"` repeatedly every 1 second via **USART2** at **9600
 - System Clock Source: HSI (16 MHz)
 
 ## 💡 Output
-Open a serial terminal (like PuTTY or Tera Term):
+Open a serial terminal (like PuTTY or Tera Term or Realterm):
